@@ -1,20 +1,3 @@
-TODO: 
-
-* Add design process overview to references? Odd request but ok.
-* MORE ANIMATIONS YEAHH!!!!!! "More dynamic visual elements could elevate engagement"
-    * See the gsap website for ideas
-    * Some gsap way to kind of underline the "discount of 10%" when the user reaches it, drawing attention. 
-    * Sometimes when scrolling, it is not apparent that there is more to come, which could be rectified with some kind of animation.
-      * Spiral thingy?
-    * Use Lottie and Adobe After Effects for these animations (pirate the latter). 
-* Optimize load times
-* Provide documentation on coding techniques and software used. Document design choices and coding decisions for evaluation.
-* Add rewards system
-* After all this is done, update work log
-
-
-
-
 Used libraries: 
 * FontAwesome
 * Spring Boot
